@@ -1,5 +1,5 @@
 body{
-    margin:25%; 
+    
     background-color: #0c192c;
     font-family: 'Outfit', sans-serif;
 }
@@ -15,14 +15,15 @@ a{
 
 
 .main{
-    margin: auto;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 10%;
     padding: 20px;
     background-color:hsl(216, 50%, 16%) ;
     width: 275px;
     border-radius: 8px;
     position: relative;
 }
-
 
 .figure img{
     border-radius: 8px;
@@ -67,9 +68,8 @@ a{
 
 .attribution{
     text-align: center;
-    margin-top: 15%;
+    margin-top: 3%;
     
 }
-
 
   
